@@ -1,0 +1,130 @@
+body {
+    /*
+    background: #FCF3DE !important;
+    background: #FCECD6 !important;
+    background: #EFF6FC !important;
+    background: #E6ECF2 !important;
+    background: #F2F8FF !important;*/
+    background: #DEE5EA !important;
+    /*
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; */
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Secondary link color*/
+.secondarylink {
+    color: #007BFF !important;
+}
+
+.secondarylink:hover {
+    color: #0069d9 !important;
+}
+
+/* NAVBAR */
+
+#navCustom {
+    background: #FCBF32 !important;
+}
+
+#logoImg {
+    width: 25px !important;
+}
+
+#navLogo {
+    font-family: 'Righteous', cursive;
+}
+
+.topNavLink {
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.topNavLink:hover {
+    color: yellow !important;
+}
+
+.card-link {
+    font-weight: bold !important;
+}
+
+/* SUBNAV */
+
+#subNavCustom {
+    background: #F24030 !important;
+}
+
+#subNavSearchBtn {
+    background: #007BFF !important;
+    color: white !important;
+}
+
+#subNavSearchBtn:hover {
+    background: #0069d9 !important;
+    color: white !important;
+}
+
+/*
+.searchIconCustom {
+    color: white !important;
+}
+
+.searchIconCustom:hover {
+    color: red !important;
+}
+*/
+
+.originalPostAvatar {
+    margin-left: -10px !important;
+}
+
+.neighborAvatar {
+    margin-left: -30px !important;
+}
+
+#notice {
+    background: #bfbfbf !important;
+}
+
+/* FOR: signuplogin page*/
+
+#loginSignupJumbo {
+    background: url("signuplogin_bg.jpg") !important;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -100;
+}
+
+#signupLogin {
+    margin-top: 40%;
+}
+
+#loginLogoIcon {
+    width: 75px;
+}
+
+#loginLogoName {
+    font-family: 'Righteous', cursive;
+    font-size: 36px;
+    color: #F24030;
+    margin-top: -10px;
+}
+
+/* FOR: newusersignup page*/
+
+#newUserSignUpJumbo {
+    background: #7AB5DD !important;
+    color: white;
+}
+
+.infoImg {
+    width: 100px !important;
+}
+
+
+
